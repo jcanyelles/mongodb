@@ -1,0 +1,17 @@
+[
+{ "_id" : ObjectId("60be29482615e65544f79dea"), "item" : "journal", "qty" : 25, "size" : { "h" : 14, "w" : 21, "uom" : "cm" }, "status" : "A" },
+{ "_id" : ObjectId("60be29482615e65544f79deb"), "item" : "notebook", "qty" : 50, "size" : { "h" : 8.5, "w" : 11, "uom" : "in" }, "status" : "A" },
+{ "_id" : ObjectId("60be29482615e65544f79dec"), "item" : "paper", "qty" : 100, "size" : { "h" : 8.5, "w" : 11, "uom" : "in" }, "status" : "D" },
+{ "_id" : ObjectId("60be29482615e65544f79ded"), "item" : "planner", "qty" : 75, "size" : { "h" : 22.85, "w" : 30, "uom" : "cm" }, "status" : "D" },
+{ "_id" : ObjectId("60be29482615e65544f79dee"), "item" : "postcard", "qty" : 45, "size" : { "h" : 10, "w" : 15.25, "uom" : "cm" }, "status" : "A" },
+{ "_id" : ObjectId("60be3ace4cbfc6182d9ca78a"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } },
+{ "_id" : ObjectId("60be3bb09174bf54038693cf"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } },
+{ "_id" : ObjectId("60be456a7447b067023971f0"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } },
+{ "_id" : ObjectId("60be45909162091b7b03377f"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } },
+{ "_id" : ObjectId("60be45ffe9c02939b5b41ac8"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } },
+{ "_id" : ObjectId("60c21d45c8837167e42bf2b5"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } },
+{ "_id" : ObjectId("60c21e03fe07ce5efadfc10e"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } },
+{ "_id" : ObjectId("60c22a35b2802b1b177fd796"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } },
+{ "_id" : ObjectId("60c22b9e5689494160a2b313"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } },
+{ "_id" : ObjectId("60c22c0a8dfab73783c4795f"), "item" : "Pencil", "qty" : 120, "status" : "A", "size" : { "h" : 8.5, "w" : 10.5, "uom" : "cm" } }
+]
